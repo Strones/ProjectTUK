@@ -1,4 +1,4 @@
-ve#include <CapacitiveSensor.h>
+#include <CapacitiveSensor.h>
 #include <Servo.h>
 #define COM_PIN 3
 #define ANGRY_T 100
